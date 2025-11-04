@@ -1,2 +1,2 @@
-Menu del dia:Plato principal.
-Menú del día: pasta bolognesa.
+Menú del día: plato principal
+Menú del día: pasta bolognesa
